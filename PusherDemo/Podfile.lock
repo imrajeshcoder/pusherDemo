@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.5.0)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - NWWebSocket (0.5.2)
+  - PusherSwift (10.0.0):
+    - NWWebSocket (~> 0.5.2)
+    - TweetNacl (~> 1.0.0)
+  - TweetNacl (1.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - JSQMessagesViewController
+  - PusherSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - JSQMessagesViewController
+    - JSQSystemSoundPlayer
+    - NWWebSocket
+    - PusherSwift
+    - TweetNacl
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  NWWebSocket: 21f0c73639815da3272862c912275b26102aa80c
+  PusherSwift: 264eaceb921a5f8e166f01a2242371179540c7ff
+  TweetNacl: 3abf4d1d2082b0114e7a67410e300892448951e6
+
+PODFILE CHECKSUM: 594cbac7e4fc47f497dbf5196294158b8696320b
+
+COCOAPODS: 1.11.2

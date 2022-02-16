@@ -1,0 +1,6 @@
+framework module Pods_PusherDemo {
+  umbrella header "Pods-PusherDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

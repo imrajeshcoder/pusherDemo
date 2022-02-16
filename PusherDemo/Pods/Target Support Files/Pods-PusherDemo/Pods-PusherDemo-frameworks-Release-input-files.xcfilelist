@@ -1,0 +1,7 @@
+${PODS_ROOT}/Target Support Files/Pods-PusherDemo/Pods-PusherDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/JSQMessagesViewController/JSQMessagesViewController.framework
+${BUILT_PRODUCTS_DIR}/JSQSystemSoundPlayer/JSQSystemSoundPlayer.framework
+${BUILT_PRODUCTS_DIR}/NWWebSocket/NWWebSocket.framework
+${BUILT_PRODUCTS_DIR}/PusherSwift/PusherSwift.framework
+${BUILT_PRODUCTS_DIR}/TweetNacl/TweetNacl.framework
